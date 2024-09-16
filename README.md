@@ -17,3 +17,7 @@ Whenever random choice was involved I used secrets over random module to maintai
 
 Welcome any suggestions, improvements, ideas, etc. 
 
+
+To Run: 
+
+Close this repo than change your directory to pyPhraseGenerator, than run the main.py file with ```python3 main.py```
