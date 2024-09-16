@@ -20,4 +20,6 @@ Welcome any suggestions, improvements, ideas, etc.
 
 To Run: 
 
-Close this repo than change your directory to pyPhraseGenerator, than run the main.py file with ```python3 main.py```
+Clone this repo then change your directory to pyPhraseGenerator, then run the main.py file with:
+
+```python3 main.py```
